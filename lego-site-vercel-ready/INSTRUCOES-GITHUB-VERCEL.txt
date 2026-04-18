@@ -1,0 +1,14 @@
+1) Descompacte este zip no seu computador.
+2) No GitHub, crie um repositório novo.
+3) Envie PARA A RAIZ do repositório o conteúdo desta pasta: index.html, assets, imagens, vercel.json etc.
+4) Não envie o arquivo .zip para dentro do GitHub. Envie os ARQUIVOS descompactados.
+5) No Vercel, importe o repositório.
+6) Framework Preset: Other.
+7) Build Command: deixe vazio.
+8) Output Directory: deixe vazio.
+9) Deploy.
+
+Importante:
+- A pasta assets precisa ficar no mesmo nível do index.html.
+- Não coloque tudo dentro de uma pasta extra tipo lego-site-main dentro do repositório.
+- Se no GitHub aparecer uma pasta e só dentro dela estiver o index.html, no Vercel pode dar erro se a raiz estiver errada.
